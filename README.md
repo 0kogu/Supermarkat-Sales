@@ -15,5 +15,5 @@ You can filter the values in all charts
 ## Conclusions
 * Saturday is the day with the largest revenue
 * The most consumed product line by men is "Health and beauty" while by women is "Food and beverages"
-* Only in Naypyitaw cash is the payment method most used, in Yangon and Mandalay Ewallet is the most used payment method
+* Only in Naypyitaw cash is the most used payment method, in Yangon and Mandalay, the customers prefer to pay via Ewallet
 * The average purchase by normal customers is a bit higher than members purchases
