@@ -1,7 +1,7 @@
 # Supermarket Sales
 ## Project Overview
 
-* In this project, we analyze supermarket sales data to find important sales metrics such as total revenue, total profit, and profit margin. We also look at which product lines are most popular among men and women. The data is gathered, cleaned, and processed with MySQL and the charts are shown in Tableau [here](https://public.tableau.com/app/profile/josue.nascimento/viz/Dashboard_17228983328300/Dashboard).
+* In this project, we analyze a supermarket sales data to find important sales metrics such as total revenue, total profit, and profit margin. We also look at which product lines are most popular among men and women. The data is gathered, cleaned, and processed with MySQL and the charts are shown in Tableau [here](https://public.tableau.com/app/profile/josue.nascimento/viz/Dashboard_17228983328300/Dashboard).
 * [Data source](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 ## Objectives
